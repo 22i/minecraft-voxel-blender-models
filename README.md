@@ -5,6 +5,9 @@ Dont forget CTRL-J to join all the objects together and export using [special mi
 
 Minecraft mobs were remade in blender
 
+Credits:
+[toby109tt](https://github.com/tobyplowy) mapping fixes
+
 <img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/blaze/blazeportret.png">
 
 Blaze
