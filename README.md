@@ -6,128 +6,156 @@ Dont forget CTRL-J to join all the objects together and export using [special mi
 Minecraft mobs were remade in blender
 
 Credits:
-[toby109tt](https://github.com/tobyplowy) mapping fixes
+[toby109tt](https://github.com/tobyplowy) mapping fixes - better 2d planes
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/blaze/blazeportret.png">
+<img src="http://i.imgur.com/sDrPv0I.png">
 
 Blaze
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/boat/boatportret.png">
-
-Boat
-
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/cat/catportet.png">
+<img src="http://i.imgur.com/Dy5kBOG.png">
 
 Ocelot
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/chicken/chickenportret.png">
+<img src="http://i.imgur.com/YVcE6Y6.png">
 
 Chicken
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/cow%20mooshrum/mooshroomportret.png">
+<img src="http://i.imgur.com/zvGBYsv.png">
 
 Mooshroom
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/cow/cowportret.png">
+<img src="http://i.imgur.com/OzjxrTu.png">
 
 Cow
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/creeper/creeperportret.png">
+<img src="http://i.imgur.com/fFT81H5.png">
 
 Creeper
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/cube%20magma/magmacubeportret.png">
+<img src="http://i.imgur.com/kPo9syY.png">
 
 Magmacube
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/cube%20slime/slimeportret.png">
+<img src="http://i.imgur.com/gxubcHM.png">
 
 Slime
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/enderdragon/enderdragonportret.png">
+<img src="http://i.imgur.com/R8z1H7M.png">
 
 Ender dragon
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/enderman/endermanportret.png">
+<img src="http://i.imgur.com/VjBb13j.png">
 
 Enderman
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/endermite/endermiteportret.png">
+<img src="http://i.imgur.com/v4QCDxn.png">
 
 Endermite
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/ghast/ghastportret.png">
+<img src="http://i.imgur.com/7R2pwBw.png">
 
 Ghast
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/guardian%20elder%20guardian/guardian_elderportret.png">
-
-Elder guardian
-
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/guardian/guardianportret.png">
+<img src="http://i.imgur.com/bOj1opZ.png">
 
 Guardian
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/horse/horseportret.png">
+<img src="http://i.imgur.com/fZ2r66l.png">
 
 Horse
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/iron%20golem/iron_golemportret.png">
+<img src="http://i.imgur.com/MIIVFyn.png">
 
 Iron golem
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/llama/llamaportret.png">
+<img src="http://i.imgur.com/sbwG042.png">
 
 Llama
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/pig/pigportret.png">
+<img src="http://i.imgur.com/2EvdYiI.png">
 
 Pig
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/player%20zombie/zombieportret.png">
+<img src="http://i.imgur.com/k3bLbHk.png">
 
 Zombie
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/rabbit/rabbitportret.png">
+<img src="http://i.imgur.com/ZOgPRz6.png">
 
 Rabbit
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/sheep/sheepportret.png">
+<img src="http://i.imgur.com/YDu8XGC.png">
 
 Sheep
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/silverfish/silverfishportret.png">
+<img src="http://i.imgur.com/MU8qCaZ.png">
 
 Silverfish
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/snowman/snowmanportret.png">
+<img src="http://i.imgur.com/YY2I8g6.png">
 
 Snowman
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/spider/spiderportret.png">
+<img src="http://i.imgur.com/qhiqfBd.png">
 
 Spider
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/squid/squidportret.png">
+<img src="http://i.imgur.com/OIXdFBW.png">
 
 Squid
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/vex/vexportret.png">
+<img src="http://i.imgur.com/LHpRD6p.png">
 
 Vex
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/villager%20witch/witchportret.png">
-
-Witch
-
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/villager/villagerportret.png">
+<img src="http://i.imgur.com/1vyZ8Wq.png">
 
 Villager
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/wither/witherportret.png">
+<img src="http://i.imgur.com/FnMLwOV.png">
+
+Villager zombie
+
+<img src="http://i.imgur.com/Gw1pVhB.png">
+
+Witch
+
+<img src="http://i.imgur.com/1Ei2yAn.png">
 
 Wither
 
-<img src="https://github.com/22i/minecraft-voxel-blender-models/blob/master/wolf/wolfportret.png">
+<img src="http://i.imgur.com/uRbCgIY.png">
 
 Wolf
+
+<img src="http://i.imgur.com/IwI4aRc.png">
+
+Wither skeleton
+
+<img src="http://i.imgur.com/aQC92qw.png">
+
+Stray skeleton
+
+<img src="http://i.imgur.com/61TLenX.png">
+
+Skeleton
+
+<img src="http://i.imgur.com/NkZZudF.png">
+
+Zombie pigman
+
+<img src="http://i.imgur.com/ZxgQDMQ.png">
+
+Boat
+
+<img src="http://i.imgur.com/XjDWqK7.png">
+
+banner
+
+<img src="http://i.imgur.com/sY0uuGo.png">
+
+Chest
+
+<img src="http://i.imgur.com/o2vYrbB.png">
+
+Shield 
