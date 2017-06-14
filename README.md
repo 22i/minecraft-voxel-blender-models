@@ -1,5 +1,5 @@
 # minecraft-voxel-blender-models
-Dont forget CTRL-A CTRL-J to join all the objects together and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
+Dont forget to select any mob cube while in object mode then double press A to select everything then CTRL-J to join all the objects together and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
 
 #### Links [amc](https://github.com/22i/amc), [mobs_mc](https://github.com/maikerumine/mobs_mc), [how to recreate mobs from textures with Blender and Gimp](http://imgur.com/a/Iqg88)
 
