@@ -11,4 +11,4 @@ if something is off or some cube is in wrong location like wither, enderdragon, 
 #### Links [amc](https://github.com/22i/amc), [mobs_mc](https://github.com/maikerumine/mobs_mc), [how to recreate mobs from textures with Blender and Gimp](http://imgur.com/a/Iqg88)
 
 Minecraft mobs were remade in blender Credits: [toby109tt](https://github.com/tobyplowy) mapping fixes - better 2d planes
-<img src="http://i.imgur.com/VqbS3D5.png">
+<img src="http://i.imgur.com/JHlGwN9.png">
