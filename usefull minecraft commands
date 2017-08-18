@@ -89,13 +89,21 @@
 
 /summon vex ~ ~ ~ {NoAI:1}
 
-/summon zombie_villager ~ ~ ~ {Age:-5000, NoAI:1}
-
-/summon zombie_villager ~ ~ ~ {IsBaby:1}
-
 /summon villager ~ ~ ~ {NoAI:1}
 
 /summon villager ~ ~ ~ {Age:-5000}
+
+/summon vindication_illager ~ ~ ~ {NoAI:1}
+
+/summon witch ~ ~ ~ {NoAI:1}
+
+/summon wither ~ ~ ~ {NoAI:1}
+
+/summon wither_skeleton ~ ~ ~ {NoAI:1}
+
+/summon zombie_villager ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon zombie_villager ~ ~ ~ {IsBaby:1}
 
 /summon zombie ~ ~ ~ {NoAI:1}
 
