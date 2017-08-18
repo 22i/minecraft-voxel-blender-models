@@ -12,7 +12,7 @@
 to make the model textures clearer in blender check the upper left menu bar - file - user preferences... <br /> on the system tab uncheck Mipmaps, set Anisotropic Filtering to Off and save user settings button in the lower left.
 
 ##### Checking if texture mapping is correct
-- get Minecraft [tlauncher](https://tlauncher.org/en/) [linux](https://rutracker.org/forum/viewtopic.php?t=4891689) you need java installed start it up in creative and spawn the mob you want by pressing T and pasting this command /summon pig ~ ~ ~ {NoAI:1} [usefull minecraft commands](https://github.com/22i/minecraft-voxel-blender-models/edit/master/usefull%minecraft%commands)
+- get Minecraft [tlauncher](https://tlauncher.org/en/) [linux](https://rutracker.org/forum/viewtopic.php?t=4891689) you need java installed start it up in creative and spawn the mob you want by pressing T and pasting this command /summon pig ~ ~ ~ {NoAI:1} [usefull minecraft commands](https://github.com/22i/minecraft-voxel-blender-models/blob/master/usefull%20minecraft%20commands)
 - open the blender model you want to test
 - when in default view or animation view find the outliner window in the top right
 - there should be armature click on the eye icon to hide the bones
