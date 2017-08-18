@@ -1,0 +1,110 @@
+/time set day
+
+/weather clear
+
+/setblock ~ ~ ~ end_portal
+
+/summon pig
+
+
+/summon bat ~ ~ ~ {NoAI:1}
+
+/summon blaze ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon ocelot ~ ~ ~ {NoAI:1}
+
+/summon ocelot ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon chicken ~ ~ ~ {NoAI:1}
+
+/summon chicken ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon mooshroom ~ ~ ~ {NoAI:1}
+
+/summon mooshroom ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon creeper ~ ~ ~ {NoAI:1}
+
+/summon ender_dragon ~ ~ ~ {NoAI:1}
+
+/summon enderman ~ ~ ~ {NoAI:1, carried:grass}
+
+/summon endermite ~ ~ ~ {NoAI:1}
+
+/summon evocation_illager ~ ~ ~ {NoAI:1}
+
+/summon ghast ~ ~ ~ {NoAI:1}
+
+/summon guardian ~ ~ ~ {NoAI:1}
+
+/summon horse ~ ~ ~ {NoAI:1}
+
+/summon horse ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon mule ~ ~ ~ {NoAI:1}
+
+/summon donkey ~ ~ ~ {NoAI:1}
+
+/summon illusion_illager ~ ~ ~ {NoAI:1}
+
+/summon villager_golem ~ ~ ~ {NoAI:1}
+
+/summon llama ~ ~ ~ {NoAI:1}
+
+/summon llama ~ ~ ~ {Age:-1000, NoAI:1}
+
+/summon magma_cube ~ ~ ~ {NoAI:1}
+
+/summon parrot ~ ~ ~ {NoAI:1}
+
+/summon pig ~ ~ ~ {NoAI:1}
+
+/summon pig ~ ~ ~ {Age:-1000, NoAI:1}
+
+/summon polar_bear ~ ~ ~ {NoAI:1}
+
+/summon polar_bear ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon rabbit ~ ~ ~ {NoAI:1}
+
+/summon rabbit ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon sheep ~ ~ ~ {NoAI:1}
+
+/summon sheep ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon shulker ~ ~ ~ {NoAI:1}
+
+/summon silverfish ~ ~ ~ {NoAI:1}
+
+/summon skeleton ~ ~ ~ {NoAI:1}
+
+/summon snowman ~ ~ ~ {NoAI:1}
+
+/summon spider ~ ~ ~ {NoAI:1}
+
+/summon squid ~ ~ ~ {NoAI:1}
+
+/summon stray ~ ~ ~ {NoAI:1}
+
+/summon vex ~ ~ ~ {NoAI:1}
+
+/summon zombie_villager ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon zombie_villager ~ ~ ~ {IsBaby:1}
+
+/summon villager ~ ~ ~ {NoAI:1}
+
+/summon villager ~ ~ ~ {Age:-5000}
+
+/summon zombie ~ ~ ~ {NoAI:1}
+
+/summon zombie ~ ~ ~ {IsBaby:1, NoAI:1}
+
+/summon wolf ~ ~ ~ {NoAI:1}
+
+/summon wolf ~ ~ ~ {Age:-5000, NoAI:1}
+
+/summon zombie_pigman ~ ~ ~ {NoAI:1}
+
+/summon zombie_pigman ~ ~ ~ {Age:-5000, NoAI:1}
