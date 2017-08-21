@@ -34,6 +34,15 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 - double press A to select everything then press CTRL-J to join all the objects together
 - test animation by pressing ALT-A and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
 
+## Exporting tips for Mooshroom
+
+- join all the objects named mooshrooom together with CTRL-J
+- join all objects without mooshroom in name together with CTRL-J
+- dont forget to be in object mode and press SHIFT-C
+- double press A to select everything then press SHIFT-CTRL-ALT-C origin to 3D cursor
+- press 7 to switch to top view rotate with R for 180 degress
+- test animation by pressing ALT-A and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
+
 ## Exporting tips for mobs that hold items
 
 - when exporting mobs that hold items like: zombie pigman. baby zombie pigman, vex, skeleton, stray, wither skeleton, illusioner and vindicator you have a choice between minecraft default item or pixel perfection item. If you want pp then delete the other holdable item without pp in the name.
