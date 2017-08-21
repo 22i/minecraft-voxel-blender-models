@@ -101,6 +101,8 @@
 
 /summon wither_skeleton ~ ~ ~ {NoAI:1}
 
+/summon zombie_villager ~ ~ ~ {NoAI:1}
+
 /summon zombie_villager ~ ~ ~ {Age:-5000, NoAI:1}
 
 /summon zombie_villager ~ ~ ~ {IsBaby:1}
