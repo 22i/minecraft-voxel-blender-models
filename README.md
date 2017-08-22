@@ -34,6 +34,14 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 - double press A to select everything then press CTRL-J to join all the objects together
 - test animation by pressing ALT-A and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
 
+## Exporting tips for Snowman
+
+- join all the objects without pumpkin in their name together with CTRL-J
+- dont forget to be in object mode and press SHIFT-C
+- double press A to select everything then press SHIFT-CTRL-ALT-C origin to 3D cursor
+- press 7 to switch to top view rotate with R for 180 degress
+- test animation by pressing ALT-A and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
+
 ## Exporting tips for Mooshroom
 
 - join all the objects named mooshrooom together with CTRL-J

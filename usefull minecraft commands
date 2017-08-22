@@ -29,6 +29,12 @@
 
 /summon enderman ~ ~ ~ {NoAI:1, carried:grass}
 
+/summon enderman ~ ~ ~ {NoAI:1, carried:pumpkin}
+
+/summon enderman ~ ~ ~ {NoAI:1, carried:clay}
+
+/summon enderman ~ ~ ~ {NoAI:1, carried:blue_orchid}
+
 /summon endermite ~ ~ ~ {NoAI:1}
 
 /summon evocation_illager ~ ~ ~ {NoAI:1}
