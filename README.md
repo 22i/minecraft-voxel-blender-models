@@ -34,6 +34,17 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 - double press A to select everything then press CTRL-J to join all the objects together
 - test animation by pressing ALT-A and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
 
+## Exporting tips for Enderman
+
+- join both objects with 45flower in their name together with CTRL-J
+- join both objects with 90flower in their name together with CTRL-J
+- join all the objects with end in their name together with CTRL-J
+- keep all the other objects and objects with cube in their name separete
+- dont forget to be in object mode and press SHIFT-C
+- double press A to select everything then press SHIFT-CTRL-ALT-C origin to 3D cursor
+- press 7 to switch to top view rotate with R for 180 degress
+- test animation by pressing ALT-A and export using [special minetest B3D exporter](https://github.com/minetest/B3Dexport)
+
 ## Exporting tips for Snowman
 
 - join all the objects without pumpkin in their name together with CTRL-J
