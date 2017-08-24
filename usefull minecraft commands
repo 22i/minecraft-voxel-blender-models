@@ -6,6 +6,10 @@
 
 /summon pig
 
+/give @p minecraft:command_block
+
+/give @p minecraft:command_block_minecart
+
 
 /summon bat ~ ~ ~ {NoAI:1}
 
