@@ -5,7 +5,7 @@ Minecraft mobs were remade in blender! Amazing!
 ## depends on -[ Blender](https://www.blender.org/)
 
 <img src="https://avatars1.githubusercontent.com/u/17874916?v=4&u=ab21dbc761d43b8a6569431ac00c1b1738aefbf3&s=400" width="25"> [amc](https://github.com/22i/amc) - test mob looks <br /> <img src="https://avatars0.githubusercontent.com/u/10661113?v=4&s=400" width="25"> [mobs_mc](https://github.com/maikerumine/mobs_mc) - test minecraft mob abilities
-<br /> <img src="http://repo.or.cz/MineClone/MineClone2.git/blob_plain/e2442a6283e164fa0c259edcad9f0928000103db:/menu/icon.png" width="32"> [MineClone2](https://forum.minetest.net/viewtopic.php?t=16407) - test Minecraft clone
+<br /> <img src="http://repo.or.cz/MineClone/MineClone2.git/blob_plain/e2442a6283e164fa0c259edcad9f0928000103db:/menu/icon.png" width="32"> [MineClone2](https://forum.minetest.net/viewtopic.php?t=16407) - test epic Minecraft
 - [How to recreate mobs from textures with Blender and Gimp](http://imgur.com/a/Iqg88)
 - [mob blender pictures](https://imgur.com/a/FJXeT)
 - get Minecraft [hmcl](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-tools/1265720-hello-minecraft-launcher-2-6-0-4-forge-liteloader), [tlauncher](https://tlauncher.org/en/), [linux](https://rutracker.org/forum/viewtopic.php?t=4891689)
