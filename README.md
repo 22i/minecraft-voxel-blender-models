@@ -102,3 +102,5 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 <img src="https://avatars3.githubusercontent.com/u/1088750?v=4&s=400" width="45"> [Jordan4Ibanez](https://www.youtube.com/user/313hummer/videos) making OpenAi
 
 <img src="https://forum.minetest.net/download/file.php?avatar=11478_1492572385.png" width="45"> [Christian9](https://forum.minetest.net/search.php?author_id=11478&sr=posts) help with 2 different textures on 1 mob
+
+<img src="https://avatars1.githubusercontent.com/u/29333817?v=4&s=400" width="45"> [kingofscargames](https://github.com/kingoscargames) making new mob textures
