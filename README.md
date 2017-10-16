@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/SSdmdCt.png">
+<img src="https://i.imgur.com/iEv1PXO.png">
 
 ## About
 Minecraft mobs were remade in blender! Amazing!
@@ -20,6 +20,8 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 - there should be armature click on the eye icon to hide the bones
 - switch to UV editing view in the upper top menu bar
 - have the same view over the mob in blender and minecraft to see if anything is off
+
+### Exporting is complex and best be automated so if you know blender scripting post [here](https://github.com/22i/minecraft-voxel-blender-models/issues/2)
 
 ## Exporting 180 degress rotated
 
@@ -80,7 +82,7 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 
 - if something is off, some cube is in wrong location or if animation is broken like with wither, enderdragon, wolf and skeleton reopen that .blend skip origin to 3D cursor part and put model into middle manualy.
 
-<img src="https://i.imgur.com/I2MDagh.png">
+<img src="https://i.imgur.com/Gr0ZUqy.png">
 
 ## Thanks to:
 <img src="https://avatars0.githubusercontent.com/u/16853304?v=4&s=400" width="45"> [toby109tt](https://github.com/tobyplowy) mapping fixes - help with backface culling
