@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# depends on xdotool
+# depends on xdotool and 1600x900 screen
 
 
 # focus on blender which is full screen on left screen
-xdotool mousemove 100 100 click 2
+xdotool mousemove 246 119 click 2
 
 # wait 1 secon
 sleep 1
@@ -77,3 +77,33 @@ sleep 1
 
 # press enter
 xdotool key ctrl+j
+
+# wait 1 second
+sleep 1
+
+# press space
+xdotool key space
+
+# wait 1 second
+sleep 1
+
+# press b
+xdotool key b
+
+# wait 1 second
+sleep 1
+
+# press 3
+xdotool key 3
+
+# wait 1 second
+sleep 1
+
+# press enter
+xdotool key KP_Enter
+
+# wait 1 second
+sleep 1
+
+# press enter
+xdotool key KP_Enter
