@@ -18,6 +18,8 @@
 
 /summon salmon_mob ~ ~ ~ {NoAI:1}
 
+/summon puffer_fish ~ ~ ~ {NoAI:1}
+
 /summon bat ~ ~ ~ {NoAI:1}
 
 /summon blaze ~ ~ ~ {Age:-5000, NoAI:1}
