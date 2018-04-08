@@ -10,6 +10,9 @@
 
 /give @p minecraft:command_block_minecart
 
+/summon phantom ~ ~ ~ {NoAI:1}
+
+/summon turtle ~ ~ ~ {NoAI:1}
 
 /summon bat ~ ~ ~ {NoAI:1}
 
