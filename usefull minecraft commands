@@ -22,6 +22,8 @@
 
 /summon tropical_fish ~ ~ ~ {NoAI:1}
 
+/summon minecraft:tropical_fish
+
 /summon bat ~ ~ ~ {NoAI:1}
 
 /summon blaze ~ ~ ~ {Age:-5000, NoAI:1}
