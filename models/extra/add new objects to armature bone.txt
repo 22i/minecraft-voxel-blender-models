@@ -1,0 +1,36 @@
+https://www.youtube.com/watch?v=V9SYMw3UaSk&feature=youtu.be&list=PLPgcVM1hYvqDxwWyeZ-D-ca-8CCxXeTNV&t=857
+
+right click (select) any bone in the armature
+
+change to pose mode by switching from object mode to pose mode (lover dropdown menu on the right of Object menu)
+
+select every object you want by right clicking it in blender viewport or more by shift right clicking
+
+hold shift and right click (select) bone you want the object to connect with
+
+now both the object and the bone are selected
+
+now just press Ctrl + p
+
+set parent to - menu will pop up
+
+select With Empty Groups option
+
+now make sure all your bones are named
+
+
+do these steps for all objects you want to add:
+
+select an object while in object mode
+
+press tab to switch to edit mode
+
+press a till all the faces on the object are selected
+
+then switch to triangle tab (data tab(object data) in the lower right part of blender
+
+in there you will see vertex groups with names of all your bones
+
+now just select the bone you want to connect with and press assign button
+
+repeat this step for all the new objects you want to add to armature!

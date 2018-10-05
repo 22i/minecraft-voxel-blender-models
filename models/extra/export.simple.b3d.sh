@@ -1,9 +1,12 @@
 #!/bin/bash
 
-# depends on xdotool and 1600x900 screen
+# depends on xdotool
 
 
-# focus on blender which is full screen on left screen
+# focus on blender which is full screen on left screen by moving mouse inside blender view and middle mouse clicking
+
+# mouse needs to be there for keyboard shortcuts to work -- edit coordiantes to work with your screen setuP!
+
 xdotool mousemove 246 119 click 2
 
 # wait 1 secon

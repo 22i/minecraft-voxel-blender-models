@@ -1,0 +1,17 @@
+search for the armature in the tree view on the top right
+just delete it
+
+you can make certain objects disapear by clicking on the eye togle in the upper right part of blender tree view
+
+in the render tab camera
+
+change the resolution and quality 100%
+
+for picture make resolution 380x380
+for icon make resolution 32x32
+
+press F11 to get into OpenGL render active viewport
+
+press F3 to make the picture
+
+now just scale it down in gimp
