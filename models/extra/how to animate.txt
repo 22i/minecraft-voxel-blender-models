@@ -1,0 +1,34 @@
+you need to first have armature and bones all assigned to different objects
+
+now select any bone and switch from object mode to pose mode
+
+switch to Animation tab in the upper left
+
+make sure you are on frame zero (look at the lower left your marker should be on the 0)
+
+press i
+
+menu: "Insert keyframe menu" will pop up
+
+choose LocRotScale
+
+then move a few frames forward
+
+move the bones in desired location with r
+
+press i
+
+menu: "Insert keyframe menu" will pop up
+
+choose LocRotScale
+
+repeat these steps till you are happy with the animation
+
+test animation with Alt + a
+
+
+dont forget to put markers to show where each animation starts and ends
+
+move mouse over frame timeline
+press m to create marker
+press Ctrl + m to rename it

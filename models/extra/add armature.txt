@@ -1,0 +1,18 @@
+press t till menu pops up
+switch to Create tab
+scroll down till you see Other: section then choose Armature (human in t pose golden icon)
+
+in the lower right part of blender switch to object data tab (human in t pose silver icon)
+under display check the X-ray to see bones even when they are inside objects
+
+while in object mode select armature bone that we created earlier with right click
+move it by pressing g to good place then rotate it with r
+press tab to switch to edit mode
+
+now you can choose either end of the bone and extend it by moving it with g
+
+to make new bones just press the lover part of the bone (bigger triangle) and extrude
+
+name bones properly so you know which one is which
+you can do so by checking upper right part of blender and in the tree view expand Armature till you see bones
+double click on the bone to rename it
