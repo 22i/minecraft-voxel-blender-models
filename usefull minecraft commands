@@ -10,6 +10,23 @@
 
 /give @p minecraft:command_block_minecart
 
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1}
+
+/summon minecraft:salmon ~ ~ ~ {NoAI:1}
+
+/summon minecraft:pufferfish ~ ~ ~ {NoAI:1}
+
+/summon minecraft:pufferfish ~ ~ ~ {Age:5000, NoAI:1}
+
+how to summon different size pufferfish???
+
+F3 + b show hitboxes
+
+
+
+
+
 /summon phantom ~ ~ ~ {NoAI:1}
 
 /summon turtle ~ ~ ~ {NoAI:1}
@@ -21,8 +38,6 @@
 /summon puffer_fish ~ ~ ~ {NoAI:1}
 
 /summon tropical_fish ~ ~ ~ {NoAI:1}
-
-/summon minecraft:tropical_fish
 
 /summon bat ~ ~ ~ {NoAI:1}
 
