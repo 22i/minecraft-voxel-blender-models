@@ -11,6 +11,10 @@
 /give @p minecraft:command_block_minecart
 
 
+
+/summon minecraft:phantom ~ ~ ~ {NoAI:1}
+
+
 /summon minecraft:tropical_fish ~ ~ ~ {NoAI:1}
 
 /summon minecraft:salmon ~ ~ ~ {NoAI:1}
