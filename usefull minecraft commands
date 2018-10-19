@@ -17,13 +17,82 @@
 
 /summon minecraft:tropical_fish ~ ~ ~ {NoAI:1}
 
+
+
+
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:1}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:918273}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:918529}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:234882305}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:185008129}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:117899265}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:117506305}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:117441025}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:67764993}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:67371265}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:67108865}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:16778497}
+
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:65536}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:917504}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:235340288}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:134217984}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:118161664}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:117441536}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:117441280}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:101253888}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:67110144}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:50790656}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:50726144}
+
+/summon minecraft:tropical_fish ~ ~ ~ {NoAI:1, Variant:50660352}
+
+
+
+
+
+
+
+
+
+
+
 /summon minecraft:salmon ~ ~ ~ {NoAI:1}
 
 /summon minecraft:pufferfish ~ ~ ~ {NoAI:1}
 
+/summon minecraft:pufferfish ~ ~ ~ {NoAI:1, PuffState:1}
+
+/summon minecraft:pufferfish ~ ~ ~ {NoAI:1, PuffState:2}
+
 /summon minecraft:pufferfish ~ ~ ~ {Age:5000, NoAI:1}
 
-how to summon different size pufferfish???
 
 F3 + b show hitboxes
 
