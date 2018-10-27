@@ -12,12 +12,17 @@
 
 
 
+/summon minecraft:illager_beast ~ ~ ~ {NoAI:1}
+/summon minecraft:pillager ~ ~ ~ {NoAI:1}
+/summon minecraft:panda ~ ~ ~ {NoAI:1}
+
 /summon minecraft:phantom ~ ~ ~ {NoAI:1}
 
 
 /summon minecraft:tropical_fish ~ ~ ~ {NoAI:1}
 
-
+for noclip
+/gamemode spectator
 
 
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
