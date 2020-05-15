@@ -10,6 +10,8 @@ change the resolution and quality 100%
 for picture make resolution 380x380
 for icon make resolution 32x32
 
+(press space and type in opengl and press enter)
+
 press F11 to get into OpenGL render active viewport
 
 press F3 to make the picture

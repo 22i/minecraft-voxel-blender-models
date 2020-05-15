@@ -24,6 +24,19 @@
 for noclip
 /gamemode spectator
 
+F3 + b show hitboxes
+
+/summon hoglin ~ ~ ~ {NoAI:1}
+
+/summon piglin ~ ~ ~ {NoAI:1}
+
+/summon strider ~ ~ ~ {NoAI:1}
+
+/summon bee ~ ~ ~ {NoAI:1}
+
+
+/summon fox ~ ~ ~ {NoAI:1}
+
 
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
 
@@ -83,11 +96,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
 
-
-
-
-
-
 /summon minecraft:salmon ~ ~ ~ {NoAI:1}
 
 /summon minecraft:pufferfish ~ ~ ~ {NoAI:1}
@@ -98,8 +106,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 /summon minecraft:pufferfish ~ ~ ~ {Age:5000, NoAI:1}
 
-
-F3 + b show hitboxes
 
 
 
