@@ -1,0 +1,14 @@
+go into object mode
+select everything with a
+select armature
+press ctrl p
+with empty groups
+
+
+select an object go into edit mode
+select all the faces
+
+go into object data tab
+
+find the vertex groups
+select the bone you wish to asign this object to then press the assign button

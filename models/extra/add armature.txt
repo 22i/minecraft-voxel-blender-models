@@ -16,3 +16,7 @@ to make new bones just press the lover part of the bone (bigger triangle) and ex
 name bones properly so you know which one is which
 you can do so by checking upper right part of blender and in the tree view expand Armature till you see bones
 double click on the bone to rename it
+
+
+
+set parents to the bones by going into the bone tab
