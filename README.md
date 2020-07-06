@@ -85,7 +85,11 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 <img src="https://i.imgur.com/Gr0ZUqy.png">
 
 ## Thanks to:
+<img src="https://avatars1.githubusercontent.com/u/47129783?s=400" width="45"> [Oil_boi](https://www.youtube.com/user/313hummer/videos) making Crafter
+
 <img src="https://avatars0.githubusercontent.com/u/16853304?v=4&s=400" width="45"> [toby109tt](https://github.com/tobyplowy) mapping fixes - help with backface culling
+
+<img src="https://forum.minetest.net/download/file.php?avatar=11478_1492572385.png" width="45"> [Christian9](https://forum.minetest.net/search.php?author_id=11478&sr=posts) help with 2 different textures on 1 mob
 
 <img src="https://avatars0.githubusercontent.com/u/10661113?v=4&s=400" width="45"> [maikerumine](https://github.com/maikerumine) making mobs_mc
 
@@ -100,9 +104,5 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 <img src="https://i.imgur.com/kHWR9cW.png" width="45"> [Mojang](https://mojang.com/) making Minecraft
 
 <img src="https://avatars3.githubusercontent.com/u/2624745?v=4&s=200" width="45"> [Minetest team](https://github.com/minetest) making Minetest
-
-<img src="https://avatars1.githubusercontent.com/u/47129783?s=400" width="45"> [Jordan4Ibanez](https://www.youtube.com/user/313hummer/videos) making Crafter
-
-<img src="https://forum.minetest.net/download/file.php?avatar=11478_1492572385.png" width="45"> [Christian9](https://forum.minetest.net/search.php?author_id=11478&sr=posts) help with 2 different textures on 1 mob
 
 <img src="https://avatars1.githubusercontent.com/u/29333817?v=4&s=400" width="45"> [kingofscargames](https://github.com/kingoscargames) making new mob textures
