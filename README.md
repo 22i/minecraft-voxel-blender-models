@@ -21,7 +21,10 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 - switch to UV editing view in the upper top menu bar
 - have the same view over the mob in blender and minecraft to see if anything is off
 
-### Exporting is complex and best be automated so if you know blender scripting post [here](https://github.com/22i/minecraft-voxel-blender-models/issues/2)
+## Exporting with Blender python scripting
+- Exporting is complex and best be scripted
+- the scripts are inside /models/extra/blender-scripting/
+- there are more instructions inside /models/extra/blender-scripting/agent.sh
 
 ## Exporting 180 degress rotated
 
@@ -85,7 +88,7 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 <img src="https://i.imgur.com/Gr0ZUqy.png">
 
 ## Thanks to:
-<img src="https://avatars1.githubusercontent.com/u/47129783?s=400" width="45"> [Oil_boi](https://www.youtube.com/user/313hummer/videos) making Crafter
+<img src="https://avatars1.githubusercontent.com/u/47129783?s=400" width="45"> [Jordan4ibanez](https://www.youtube.com/user/313hummer/videos) making mobs shine
 
 <img src="https://avatars0.githubusercontent.com/u/16853304?v=4&s=400" width="45"> [toby109tt](https://github.com/tobyplowy) mapping fixes - help with backface culling
 
