@@ -1,0 +1,307 @@
+AGENT
+0-20 walking
+20-60 standing
+
+AXOLOTL - work in progress
+
+BAT
+0-40 flying
+40-80 flying boobing
+80-120 death
+
+BEE
+0-32 flying boobing above
+100-132 flying above
+200-232 flying on the floor
+
+BLAZE
+0-100 rods rotation
+
+CAT BABY
+0-40 walking
+40-80 boobing walking
+
+CAT
+0-40 walking
+40-80 boobing walking
+
+CHICKEN BABY
+0-20 walking
+20-40 walking with head movement
+40-60 walking boobing with head movement
+
+CHICKEN
+0-20 walking
+20-40 walking with head movement
+40-60 walking boobing with head movement
+
+COD
+0-20 swim
+30-50 flapping on the surface
+
+COW BABY
+0-40 walking
+40-80 walking boobing
+
+COW
+0-40 walking
+40-80 walking boobing
+
+CREEPER
+0-40 walking
+40-80 walking boobing
+
+DOLPHIN
+0-80 tail up and down
+100-180 tail and body and head up and down
+
+DROWNED
+0-40 walking
+40-80 walking boobing
+80-120 standing
+
+ENDER DRAGON
+0-20 flying
+20-40 flying mouth
+40-60 flying mouth head
+60-80 flying mouth head body
+
+ENDERMAN
+0-40 walking
+50-90 angry walking (head.top is up a bit)
+100-140 angry walking item
+150-190 walking item
+200-240 walking boobing
+250-290 angry walking boobing
+300-340 angry walking item boobing
+350-390 walking item boobing
+390-390 holding item
+390-400 hands going down
+400-440 standing
+
+ENDERMITE
+0-20 moving tail
+20-40 moving head tail
+40-60 moving head body tail
+
+FOX - work in progress
+
+GHAST
+0-40 tentacles move
+
+GOAT - work in progress
+
+GUARDIAN
+0-20 spikes and tail move
+
+HOGLIN - work in progress
+
+HORSE BABY
+0-40 walking
+40-80 walking boobing
+
+HORSE
+0-40 walking
+40-80 walking boobing
+
+IRON GOLEM
+0-40 walking
+40-80 walking boobing
+80-90 attack
+
+LLAMA BABY
+0-40 walking
+40-80 walking head
+80-120 walking head boobing
+
+LLAMA
+0-40 walking
+40-80 walking head
+80-120 walking head boobing
+
+MAGMA CUBE
+no animation
+
+NEW HORSE - work in progress
+
+PANDA
+0-20 walking
+20-30 lays on its back
+30-50 sky walking
+50-60 uprise to 45 degree
+60-80 sky walk
+80-90 back to all four
+90-200 flip 360
+200-220 into siting position
+220-240 sitting and eating
+240-250 from sitting back on all four
+
+PARROT
+0-20 walking
+20-40 walking head boobing
+40-130 high flying
+130-150 flying on the floor
+
+PHANTOM
+10-30 flying
+
+PIG
+0-40 walking
+40-80 walking boobing
+
+PIGLIN
+0-40 walking
+40-80 walking boobing
+80-120 standing still
+
+POLARBEAR BABY
+0-40 walking
+40-80 walking boobing
+
+PUFFER FISH
+0-20 fins moving
+
+RABBIT BABY
+0-20 jumping in place
+20-40 jumping in air
+
+RABBIT
+0-20 jumping in place
+20-40 jumping in air
+
+RAVAGER
+0-20 walking
+20-30 attack
+
+SALMON
+0-20 swim
+20-40 swim boobing
+45-50 get stuck on land
+50-70 stuck on land flapping
+
+SHEEP BABY
+0-40 walking
+40-80 walking boobing
+
+SHEEP
+0-40 walking
+40-80 walking boobing
+
+SHULKER
+0-25 nothing
+25-45 opens to observe then closes
+45-80 agressively open
+80-100 attack mode
+
+SILVERFISH
+0-20 crawling
+20-40 crawling boobing
+
+SKELETON
+0-40 standing
+40-60 walking
+60-70 bow up
+70-90 holding bow and moving
+90-100 bow down
+100-110 sword up
+110-130 sword strike moving
+130-140 sword down
+140-155 gotten hurt
+200-240 standing head boobing
+240-260 walking boobing
+260-270 bow up
+270-290 holding bow and moving
+290-300 bow down
+300-310 sword up
+310-330 sword strike moving
+330-340 sword down
+340-355 gotten hurt
+360-370 death
+
+SLIME
+no animation
+
+SNOWMAN
+0-20 moving
+20-40 standing
+40-50 death
+
+SPIDER
+0-20 moving
+20-40 standing head moving
+
+SQUID
+0-40 tentacles move
+
+STRIDER - work in progress
+
+TROPICAL FISH A
+0-20 tail moving
+20-40 everything moving
+
+TROPICAL FISH B
+0-20 tail moving
+20-40 everything moving
+
+TURTLE
+0-80 land move
+90-170 swiming
+
+VEX
+0-40 flying
+40-80 flying idle
+100-140 flying boobing
+140-180 flying boobing idle
+
+VILLAGER ZOMBIE BABY
+0-20 walking
+40-60 walking boobing
+60-80 standing head boobing
+
+VILLAGER ZOMBIE
+0-20 walking
+40-60 walking boobing
+60-80 standing head boobing
+
+VINDICATOR EVOKER ILLUSIONER VILLAGER BABY
+0-40 walking
+60-70 axe up
+70-90 axe hunting
+90-100 axe strike moving
+120- magic arm swinging
+140-150 bow up
+150-160 bow strike
+300-340 walking boobing
+
+WITCH
+0-40 walking
+
+WITHER
+0-20 tail
+20-40 tail body
+
+WOLF BABY
+0-40 walking
+40-80 walking boobing
+
+WOLF
+0-40 walking
+40-80 walking boobing
+
+ZOMBIE BABY
+0-40 walking
+40-80 standing
+100-140 walking
+140-180 standing
+
+ZOMBIE PIGMAN BABY
+0-40 walking
+40-80 standing
+100-140 walking
+140-180 standing
+
+ZOMBIE
+0-40 walking
+40-80 standing
+100-140 walking
+140-180 standing

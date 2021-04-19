@@ -26,6 +26,10 @@ for noclip
 
 F3 + b show hitboxes
 
+/summon goat ~ ~ ~ {NoAI:1}
+
+/summon axolotl ~ ~ ~ {NoAI:1}
+
 /summon hoglin ~ ~ ~ {NoAI:1}
 
 /summon piglin ~ ~ ~ {NoAI:1}
