@@ -24,7 +24,7 @@ to make the model textures clearer in blender check the upper left menu bar - fi
 ## Exporting with Blender python scripting
 - Exporting is complex and best be scripted
 - the scripts are inside /models/extra/blender-scripting/
-- there are more instructions inside /models/extra/blender-scripting/agent.sh
+- there are more instructions inside /models/extra/blender-scripting/blender-export-agent.sh
 
 ## Exporting 180 degress rotated
 
