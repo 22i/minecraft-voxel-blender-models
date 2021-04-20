@@ -58,27 +58,6 @@ $blender ../../wolf.blend --python $PWD/lib/wolf.py
 $blender ../../zombie_baby.blend --python $PWD/lib/zombie_baby.py
 $blender ../../zombie.blend --python $PWD/lib/zombie.py
 
-# SPECIAL CASES
-# cow + mooshroom_baby
-# cow + mooshroom
-# drowned
-# enderman
-# horse + zombiehorse + skeltonhorse + mule + donkey baby
-# horse + zombiehorse + skeltonhorse + mule + donkey
-# llama_baby
-# llama
-# new_horse
-# pig
-# piglin
-# puffer.fish
-# sheep_baby
-# sheep
-# skeleton + skeleton_stray + wither_skeleton
-# snowman
-# vex
-# vindicator + evoker + illusioner + villager + baby
-# zombie_pigman + baby
-
 # move all b3d files into exported folder
 mv --force ../../*.b3d $PWD/exported/
 
